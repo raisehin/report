@@ -56,6 +56,16 @@ words = {
     ['halfblood'] = 'Bullying',
     ['hater'] = 'Bullying',
     ['END'] = 'Bullying',
+    ['lgbtq'] = 'Bullying',
+    ['stupid'] = 'Bullying',
+    ['idiotic'] = 'Bullying',
+    ['disgusting'] = 'Bullying',
+    ['immigrant'] = 'Bullying',
+    ['disabled'] = 'Bullying',
+    ['end it all'] = 'Bullying',
+    ['short'] = 'Bullying',
+    ['asian'] = 'Bullying',
+    ['dead'] = 'Bullying',
 }
 
 if not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents') or not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents'):FindFirstChild('OnMessageDoneFiltering') then return end
